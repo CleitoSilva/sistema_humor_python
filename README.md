@@ -1,6 +1,15 @@
 # Sistema de Humor (Python)
 
+## 🎨 Visual do sistema
+
+<p align="center">
+  <img src="sistema_humor.PNG" alt="Mood Tracker Deluxe" width="600">
+</p>
+
+
 Este projeto demonstra como ter a mesma lógica para Web (Flask) e Desktop (Tkinter).
+
+
 
 ## Estrutura
 - core/: lógica compartilhada
