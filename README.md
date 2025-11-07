@@ -3,7 +3,7 @@
 ## 🎨 Visual do sistema
 
 <p align="center">
-  <img src="sistema_humor.PNG" alt="Mood Tracker Deluxe" width="600">
+  <img src="sistema_humor.png" alt="Mood Tracker Deluxe" width="600">
 </p>
 
 
