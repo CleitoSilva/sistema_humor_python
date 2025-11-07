@@ -1,4 +1,9 @@
 import tkinter as tk
+import sys
+import os
+sys.path.append(os.path.join(os.path.dirname(__file__), '..', 'core'))
+
+
 import customtkinter as ctk
 from tkinter import messagebox
 from datetime import date
@@ -6,6 +11,7 @@ import matplotlib.pyplot as plt
 from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
 import calendar
 from core.humor import salvar_humor, obter_humor, estatisticas, listar_mes
+
 
 # ===============================
 # CONFIGURAÇÕES BÁSICAS
